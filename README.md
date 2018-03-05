@@ -36,3 +36,8 @@ for ex:
 #include <opencv2/highgui/highgui.hpp>
 
 OpenCV 3.0.0 MinGW built for QT
+
+!!! ADD TO user's PATH:
+
+C:\...\this_build\install\x86\mingw\bin
+C:\...\this_build\bin
