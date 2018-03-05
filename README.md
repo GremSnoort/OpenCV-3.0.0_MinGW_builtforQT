@@ -3,7 +3,9 @@
 In .pro file:
 
 INCLUDEPATH +=C:\\...\\this_build\\install\\include
+
 INCLUDEPATH +=C:\\...\\this_build\\install\\include\\opencv
+
 LIBS+=C:\\...\\this_build\\install\\x86\\mingw\\lib\\libopencv_calib3d300.dll.a
 LIBS+=C:\\...\\this_build\\install\\x86\\mingw\\lib\\libopencv_core300.dll.a
 LIBS+=C:\\...\\this_build\\install\\x86\\mingw\\lib\\libopencv_features2d300.dll.a
